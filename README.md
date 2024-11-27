@@ -103,7 +103,7 @@ If you encounter any issues, here are some common solutions:
 
 If you need additional help, feel free to contact us:
 
-- *Email:* [support@budgettracker.com](mailto:support@budgettracker.com)
+- *Email:* [support@budgettracker.com](mailto:govindgupta057@gmail.com.com)
 - *GitHub Repository:* [https://github.com/Govindg1211/budget-tracker](https://github.com/Govindg1211/budget-tracker)
 
 We are happy to assist you with any questions or issues you may have!
